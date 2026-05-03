@@ -86,7 +86,7 @@ RBM effectively captures hidden patterns in customer data and provides valuable 
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 Vaishnavi Gadhe
 
