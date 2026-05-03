@@ -60,4 +60,5 @@ This repository contains multiple Machine Learning and Deep Learning projects im
 ## Author
 
 Vaishnavi Gadhe
+
 Bachelor of Technology - Artificial Intelligence and Data Science
