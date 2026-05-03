@@ -22,7 +22,7 @@ This repository contains multiple Machine Learning and Deep Learning projects im
 
 ---
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 * Programming Language: Python
 * Libraries: NumPy, Pandas, Matplotlib, Seaborn, scikit-learn
@@ -30,7 +30,7 @@ This repository contains multiple Machine Learning and Deep Learning projects im
 
 ---
 
-## 📊 Key Features
+## Key Features
 
 * Data preprocessing and visualization
 * Model training and evaluation
